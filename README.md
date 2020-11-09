@@ -1,6 +1,5 @@
-<!-- <p align="center">
-   <img src="./.github/cheesecake_banner.png" alt="Marvel Logo" width="300"/>
-</p> -->
+<h2>:cake: Frontend Challenge - Newspaper page</h2>
+
 <p align="center">
    <a href="https://linkedin.com/in/denis-ladeira-814365115/">
       <img alt="Denis Mendonça Ladeira" src="https://img.shields.io/badge/-DenisLadeira-blue?style=flat&logo=Linkedin&logoColor=white" />
@@ -15,12 +14,8 @@
 
   <a href="https://https://app.netlify.com/sites/cheesecake-denisladeira/deploys">
       <img alt="Netfly" src="https://img.shields.io/badge/netfly-Success-blue?style=flat&logo=netlify&logoColor=white" />
-
    </a>
 </p>
-
-<p align="center">
-   :cake: Cheesecake Frontend Challenge - Newspaper page</p>
 
 <div align="center">
   <sub>Newspaper Page project. Built with ❤︎ by
