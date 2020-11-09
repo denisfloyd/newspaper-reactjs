@@ -1,10 +1,12 @@
 <h2>:cake: Frontend Challenge - Newspaper page</h2>
 
+<br>
+
 <p align="center">
    <a href="https://linkedin.com/in/denis-ladeira-814365115/">
       <img alt="Denis Mendonça Ladeira" src="https://img.shields.io/badge/-DenisLadeira-blue?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/denismend/newspaper-reactjs?color=black">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/denismend/newspaper-reactjs?color=blue">
 
   <a href="https://github.com/denismend/newspaper-reactjs/commits/dev_v1">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/denismend/newspaper-reactjs?color=blue">
