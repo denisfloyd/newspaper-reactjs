@@ -112,7 +112,7 @@ $ gh repo fork denismend/newspaper-reactjs
 
 # Clone your fork
 $ git clone {your-fork-url}
-$ cd denis-ladeira-frontend
+$ cd newspaper-reactjs
 
 # Create a branch with your feature
 $ git checkout -b {branch-name}
